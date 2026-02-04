@@ -1,0 +1,24 @@
+{
+  "name": "Jardinería G&H - Jardinería Integral",
+  "short_name": "Jardinería G&H",
+  "description": "Cuidamos y transformamos tus espacios verdes. Servicios profesionales de jardinería en Villa del Dique, Córdoba.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fafaf5",
+  "theme_color": "#2d5a27",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
